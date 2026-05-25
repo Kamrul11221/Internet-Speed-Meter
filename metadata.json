@@ -1,0 +1,6 @@
+{
+  "name": "Internet Speed Meter",
+  "description": "Real-time download & upload rate tracker with notification alerts, customized limits, daily usage stats, and multi-device support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
